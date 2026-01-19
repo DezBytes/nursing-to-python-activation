@@ -1,3 +1,5 @@
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/d468e6c9-c1ab-4f00-b62c-f962293d0886" />
+
 # nursing-to-python-activation
 Nursing professional (UAB St. Vincent’s) transitioning into Python development. Exploring pattern recognition and system logic since 12/29/2025.
 # 🩺 Nursing to Python Activation: The 12/29 Shift
